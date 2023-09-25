@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Junior Developer working with SQL databases<br>📚 Currently studying PHP and diving deeper into Database technologies<br>🔍 Bleach and BlackClover are the best animes.
+👨‍💻 Junior Developer working with SQL databases<br>📚 Currently studying PHP and delving deeper into Database technologies<br>🔍 Bleach and BlackClover are the best animes.
 
 
 ## 🌐 Socials:
